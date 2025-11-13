@@ -105,21 +105,3 @@ text_analyzer/
 └─ src/
    └─ main.rs
 ```
-
----
-
-## 🌟 Why this looks good on GitHub
-
-This project demonstrates that you can:
-
-- Use **Rust** (a modern systems language)
-- Build **CLI tools** with arguments
-- Handle **file I/O and errors**
-- Use **collections** (hash maps, vectors) and sorting
-- Structure code cleanly with functions and structs
-
-You can extend it later with:
-
-- Stopword filtering
-- Exporting results to JSON/CSV
-- Colored terminal output
